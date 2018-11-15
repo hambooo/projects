@@ -9,4 +9,9 @@ public class HelloGit {
             System.out.println();
         }
     }
+
+    public void test(){
+        System.out.println("Git是分布式版本控制系统~");
+    }
+
 }
